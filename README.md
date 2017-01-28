@@ -1,7 +1,7 @@
-#_First Code Review_
+#First Code Review
 ####A base page for Epicodus projects, 1.28.2017
 
-####_By Susha Dore_
+###By _Susha Dore_
 
 ##Description
 This is a webpage set up to contain my Epicodus coding projects. The page includes a list of several projects as well as a bit of information about my background and interests.
