@@ -1,9 +1,6 @@
 # Personal Landing Page
 An HTML project for Epicodus, 1.28.2017
 
-#### Author
-Susha Dore
-
 ## Description
 This is a webpage set up to contain my Epicodus coding projects. The page includes a list of several projects as well as a bit of information about my background and interests.
 
@@ -15,7 +12,9 @@ Click this link: https://sushadore.github.io/First-Code-Review/
 * CSS
 * Bootstrap
 
-## License
+#### Author
+Susha Dore
+#### License
 MIT license.
 
 
